@@ -31,7 +31,7 @@ yarn add react-native-nitro-device-info react-native-nitro-modules
 pnpm add react-native-nitro-device-info react-native-nitro-modules
 ```
 
-> **Note**: `react-native-nitro-modules` ^0.31.0 is required as a peer dependency.
+> **Note**: `react-native-nitro-modules` ^0.32.0 is required as a peer dependency.
 
 ### iOS Setup
 

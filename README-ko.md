@@ -31,7 +31,7 @@ yarn add react-native-nitro-device-info react-native-nitro-modules
 pnpm add react-native-nitro-device-info react-native-nitro-modules
 ```
 
-> **참고:** `react-native-nitro-modules` 버전 ^0.31.0 이상이 필요합니다.
+> **참고:** `react-native-nitro-modules` 버전 ^0.32.0 이상이 필요합니다.
 
 ### iOS 설정
 
